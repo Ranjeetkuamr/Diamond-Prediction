@@ -1,3 +1,15 @@
-pandas 
+pandas
+scikit-learn
 numpy
+seaborn 
+flask
+mlflow==2.2.2
+dvc
+ipykernel
+xgboost
+numpy
+catboost
+matplotlib
+ipykernel
+
 # -e .
