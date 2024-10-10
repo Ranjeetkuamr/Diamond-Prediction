@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/diamond/mlruns/0/dadb45b1ee084077bd02b14122fa210a/artifacts
+end_time: 1728523317909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dadb45b1ee084077bd02b14122fa210a
+run_name: dapper-rat-772
+run_uuid: dadb45b1ee084077bd02b14122fa210a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728523314063
+status: 3
+tags: []
+user_id: ranje
