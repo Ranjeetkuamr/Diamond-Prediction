@@ -32,9 +32,10 @@ class ModelEvaluation:
              
              logging.info("model has register")
 
-             tracking_url_type_store=urlparse(mlflow.get_tracking_uri()).scheme
+             mlflow.set_registry_uri("https://dagshub.com/Ranjeetkuamr/Diamond-Prediction.mlflow")
+             tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
 
-             print(tracking_url_type_store)
+             
 
 
 

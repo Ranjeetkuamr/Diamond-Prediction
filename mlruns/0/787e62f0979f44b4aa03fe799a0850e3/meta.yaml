@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/diamond/mlruns/0/787e62f0979f44b4aa03fe799a0850e3/artifacts
+end_time: 1728526459001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 787e62f0979f44b4aa03fe799a0850e3
+run_name: industrious-gnu-694
+run_uuid: 787e62f0979f44b4aa03fe799a0850e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728526451872
+status: 3
+tags: []
+user_id: ranje
