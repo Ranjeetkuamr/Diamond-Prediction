@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/diamond/mlruns/0/93917dc2132c4a968d12aacab2186f64/artifacts
+end_time: 1728522805340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93917dc2132c4a968d12aacab2186f64
+run_name: monumental-dog-754
+run_uuid: 93917dc2132c4a968d12aacab2186f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728522800121
+status: 3
+tags: []
+user_id: ranje

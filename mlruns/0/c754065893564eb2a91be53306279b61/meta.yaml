@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/diamond/mlruns/0/c754065893564eb2a91be53306279b61/artifacts
+end_time: 1728517090038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c754065893564eb2a91be53306279b61
+run_name: auspicious-yak-43
+run_uuid: c754065893564eb2a91be53306279b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728517082639
+status: 4
+tags: []
+user_id: ranje

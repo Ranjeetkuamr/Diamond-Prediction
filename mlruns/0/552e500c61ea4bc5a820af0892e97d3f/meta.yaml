@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/diamond/mlruns/0/552e500c61ea4bc5a820af0892e97d3f/artifacts
+end_time: 1728514533005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 552e500c61ea4bc5a820af0892e97d3f
+run_name: caring-dog-512
+run_uuid: 552e500c61ea4bc5a820af0892e97d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728514525015
+status: 4
+tags: []
+user_id: ranje

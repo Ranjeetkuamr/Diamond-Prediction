@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/diamond/mlruns/0/12d50dfae56d41ffabbafb4718aba4a5/artifacts
+end_time: 1728516385553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12d50dfae56d41ffabbafb4718aba4a5
+run_name: carefree-gull-668
+run_uuid: 12d50dfae56d41ffabbafb4718aba4a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728516373880
+status: 4
+tags: []
+user_id: ranje

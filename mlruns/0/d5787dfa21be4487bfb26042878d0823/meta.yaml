@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/diamond/mlruns/0/d5787dfa21be4487bfb26042878d0823/artifacts
+end_time: 1728512570894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5787dfa21be4487bfb26042878d0823
+run_name: puzzled-dove-715
+run_uuid: d5787dfa21be4487bfb26042878d0823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728512558612
+status: 4
+tags: []
+user_id: ranje

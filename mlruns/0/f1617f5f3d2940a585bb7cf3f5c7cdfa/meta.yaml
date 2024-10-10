@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/diamond/mlruns/0/f1617f5f3d2940a585bb7cf3f5c7cdfa/artifacts
+end_time: 1728513847280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1617f5f3d2940a585bb7cf3f5c7cdfa
+run_name: dapper-quail-789
+run_uuid: f1617f5f3d2940a585bb7cf3f5c7cdfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728513838679
+status: 4
+tags: []
+user_id: ranje
